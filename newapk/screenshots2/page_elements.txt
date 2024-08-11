@@ -1,0 +1,56 @@
+
+
+--- accessibility ---
+Blank page or no interactive elements found
+
+
+--- animation ---
+Blank page or no interactive elements found
+
+
+--- app ---
+Blank page or no interactive elements found
+
+
+--- content ---
+Blank page or no interactive elements found
+
+
+--- graphics ---
+Blank page or no interactive elements found
+
+
+--- media ---
+Blank page or no interactive elements found
+
+
+--- nfc ---
+Blank page or no interactive elements found
+
+
+--- os ---
+Blank page or no interactive elements found
+
+
+--- preference ---
+Blank page or no interactive elements found
+
+
+--- views ---
+Blank page or no interactive elements found
+
+
+--- text ---
+Blank page or no interactive elements found
+
+
+--- logtextbox ---
+Buttons found:
+- Add
+- Do nothing
+
+
+--- add_button ---
+Buttons found:
+- Add
+- Do nothing

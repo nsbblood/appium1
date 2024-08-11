@@ -1,0 +1,61 @@
+
+--- Main Menu ---
+TextViews found:
+- API Demos (android.widget.TextView)
+- Access'ibility (android.widget.TextView)
+- Accessibility (android.widget.TextView)
+- Animation (android.widget.TextView)
+- App (android.widget.TextView)
+- Content (android.widget.TextView)
+- Graphics (android.widget.TextView)
+- Media (android.widget.TextView)
+- NFC (android.widget.TextView)
+- OS (android.widget.TextView)
+- Preference (android.widget.TextView)
+- Text (android.widget.TextView)
+- Views (android.widget.TextView)
+
+  --- Access'ibility (android.widget.TextView) ---
+  TextViews found:
+  - API Demos (android.widget.TextView)
+  - Accessibility Node Provider (android.widget.TextView)
+  - Accessibility Node Querying (android.widget.TextView)
+  - Accessibility Service (android.widget.TextView)
+  - Custom View (android.widget.TextView)
+
+    --- Accessibility Node Provider (android.widget.TextView) ---
+    TextViews found:
+    - Accessibility/Accessibility Node Provider (android.widget.TextView)
+    - Enable TalkBack and Explore-by-touch from accessibility settings. Then touch the colored squares. (android.widget.TextView)
+
+    --- Accessibility Node Querying (android.widget.TextView) ---
+    TextViews found:
+    - Accessibility/Accessibility Node Querying (android.widget.TextView)
+    - 1. Enable QueryBack (Settings -> Accessibility -> QueryBack). 
+
+2. Enable Explore-by-Touch (Settings -> Accessibility -> Explore by Touch). 
+
+3. Touch explore the list. (android.widget.TextView)
+    - Take out Trash (android.widget.TextView)
+    - Do Laundry (android.widget.TextView)
+    - Conquer World (android.widget.TextView)
+    - Nap (android.widget.TextView)
+    - Do Taxes (android.widget.TextView)
+    - Abolish IRS (android.widget.TextView)
+    - Tea with Aunt Sharon (android.widget.TextView)
+
+      --- null (android.widget.CheckBox) ---
+      TextViews found:
+      - Accessibility/Accessibility Node Querying (android.widget.TextView)
+      - 1. Enable QueryBack (Settings -> Accessibility -> QueryBack). 
+
+2. Enable Explore-by-Touch (Settings -> Accessibility -> Explore by Touch). 
+
+3. Touch explore the list. (android.widget.TextView)
+      - Take out Trash (android.widget.TextView)
+      - Do Laundry (android.widget.TextView)
+      - Conquer World (android.widget.TextView)
+      - Nap (android.widget.TextView)
+      - Do Taxes (android.widget.TextView)
+      - Abolish IRS (android.widget.TextView)
+      - Tea with Aunt Sharon (android.widget.TextView)

@@ -1,0 +1,329 @@
+--- accessibility ---
+Clickable elements found:
+- Accessibility Node Provider (android.widget.TextView)
+- Accessibility Node Querying (android.widget.TextView)
+- Accessibility Service (android.widget.TextView)
+- Custom View (android.widget.TextView)
+Text elements found:
+- API Demos
+- Accessibility Node Provider
+- Accessibility Node Querying
+- Accessibility Service
+- Custom View
+
+
+--- animation ---
+Clickable elements found:
+- Bouncing Balls (android.widget.TextView)
+- Cloning (android.widget.TextView)
+- Custom Evaluator (android.widget.TextView)
+- Default Layout Animations (android.widget.TextView)
+- Events (android.widget.TextView)
+- Hide-Show Animations (android.widget.TextView)
+- Layout Animations (android.widget.TextView)
+- Loading (android.widget.TextView)
+- Multiple Properties (android.widget.TextView)
+- Reversing (android.widget.TextView)
+- Seeking (android.widget.TextView)
+- View Flip (android.widget.TextView)
+Text elements found:
+- API Demos
+- Bouncing Balls
+- Cloning
+- Custom Evaluator
+- Default Layout Animations
+- Events
+- Hide-Show Animations
+- Layout Animations
+- Loading
+- Multiple Properties
+- Reversing
+- Seeking
+- View Flip
+
+
+--- app ---
+Clickable elements found:
+- Action Bar (android.widget.TextView)
+- Activity (android.widget.TextView)
+- Alarm (android.widget.TextView)
+- Alert Dialogs (android.widget.TextView)
+- Device Admin (android.widget.TextView)
+- Fragment (android.widget.TextView)
+- Launcher Shortcuts (android.widget.TextView)
+- Loader (android.widget.TextView)
+- Menu (android.widget.TextView)
+- Notification (android.widget.TextView)
+- Search (android.widget.TextView)
+- Service (android.widget.TextView)
+- Text-To-Speech (android.widget.TextView)
+- Voice Recognition (android.widget.TextView)
+Text elements found:
+- API Demos
+- Action Bar
+- Activity
+- Alarm
+- Alert Dialogs
+- Device Admin
+- Fragment
+- Launcher Shortcuts
+- Loader
+- Menu
+- Notification
+- Search
+- Service
+- Text-To-Speech
+- Voice Recognition
+
+
+--- content ---
+Clickable elements found:
+- Assets (android.widget.TextView)
+- Clipboard (android.widget.TextView)
+- Packages (android.widget.TextView)
+- Provider (android.widget.TextView)
+- Resources (android.widget.TextView)
+- Storage (android.widget.TextView)
+Text elements found:
+- API Demos
+- Assets
+- Clipboard
+- Packages
+- Provider
+- Resources
+- Storage
+
+
+--- graphics ---
+Clickable elements found:
+- AlphaBitmap (android.widget.TextView)
+- AnimateDrawables (android.widget.TextView)
+- Arcs (android.widget.TextView)
+- BitmapDecode (android.widget.TextView)
+- BitmapMesh (android.widget.TextView)
+- BitmapPixels (android.widget.TextView)
+- CameraPreview (android.widget.TextView)
+- Clipping (android.widget.TextView)
+- ColorFilters (android.widget.TextView)
+- ColorMatrix (android.widget.TextView)
+- Compass (android.widget.TextView)
+- CreateBitmap (android.widget.TextView)
+- Density (android.widget.TextView)
+- Drawable (android.widget.TextView)
+- FingerPaint (android.widget.TextView)
+- Layers (android.widget.TextView)
+Text elements found:
+- API Demos
+- AlphaBitmap
+- AnimateDrawables
+- Arcs
+- BitmapDecode
+- BitmapMesh
+- BitmapPixels
+- CameraPreview
+- Clipping
+- ColorFilters
+- ColorMatrix
+- Compass
+- CreateBitmap
+- Density
+- Drawable
+- FingerPaint
+- Layers
+
+
+--- media ---
+Clickable elements found:
+- AudioFx (android.widget.TextView)
+- MediaPlayer (android.widget.TextView)
+- VideoView (android.widget.TextView)
+Text elements found:
+- API Demos
+- AudioFx
+- MediaPlayer
+- VideoView
+
+
+--- nfc ---
+Clickable elements found:
+- ForegroundDispatch (android.widget.TextView)
+- ForegroundNdefPush (android.widget.TextView)
+- TechFilter (android.widget.TextView)
+Text elements found:
+- API Demos
+- ForegroundDispatch
+- ForegroundNdefPush
+- TechFilter
+
+
+--- os ---
+Clickable elements found:
+- Morse Code (android.widget.TextView)
+- Rotation Vector (android.widget.TextView)
+- Sensors (android.widget.TextView)
+- SMS Messaging (android.widget.TextView)
+Text elements found:
+- API Demos
+- Morse Code
+- Rotation Vector
+- Sensors
+- SMS Messaging
+
+
+--- preference ---
+Clickable elements found:
+- 1. Preferences from XML (android.widget.TextView)
+- 2. Launching preferences (android.widget.TextView)
+- 3. Preference dependencies (android.widget.TextView)
+- 4. Default values (android.widget.TextView)
+- 5. Preferences from code (android.widget.TextView)
+- 6. Advanced preferences (android.widget.TextView)
+- 7. Fragment (android.widget.TextView)
+- 8. Headers (android.widget.TextView)
+- 9. Switch (android.widget.TextView)
+Text elements found:
+- API Demos
+- 1. Preferences from XML
+- 2. Launching preferences
+- 3. Preference dependencies
+- 4. Default values
+- 5. Preferences from code
+- 6. Advanced preferences
+- 7. Fragment
+- 8. Headers
+- 9. Switch
+
+
+--- views ---
+Clickable elements found:
+- Animation (android.widget.TextView)
+- Auto Complete (android.widget.TextView)
+- Buttons (android.widget.TextView)
+- Chronometer (android.widget.TextView)
+- Controls (android.widget.TextView)
+- Custom (android.widget.TextView)
+- Date Widgets (android.widget.TextView)
+- Drag and Drop (android.widget.TextView)
+- Expandable Lists (android.widget.TextView)
+- Focus (android.widget.TextView)
+- Gallery (android.widget.TextView)
+- Game Controller Input (android.widget.TextView)
+- Grid (android.widget.TextView)
+- Hover Events (android.widget.TextView)
+- ImageButton (android.widget.TextView)
+- ImageSwitcher (android.widget.TextView)
+Text elements found:
+- API Demos
+- Animation
+- Auto Complete
+- Buttons
+- Chronometer
+- Controls
+- Custom
+- Date Widgets
+- Drag and Drop
+- Expandable Lists
+- Focus
+- Gallery
+- Game Controller Input
+- Grid
+- Hover Events
+- ImageButton
+- ImageSwitcher
+
+
+--- text ---
+Clickable elements found:
+- KeyEventText (android.widget.TextView)
+- Linkify (android.widget.TextView)
+- LogTextBox (android.widget.TextView)
+- Marquee (android.widget.TextView)
+- Unicode (android.widget.TextView)
+Text elements found:
+- API Demos
+- KeyEventText
+- Linkify
+- LogTextBox
+- Marquee
+- Unicode
+
+
+--- logtextbox ---
+Clickable elements found:
+- ADD (android.widget.Button)
+- null (android.widget.TextView)
+- DO NOTHING (android.widget.Button)
+Text elements found:
+- Text/LogTextBox
+- null
+
+
+--- add_button ---
+Clickable elements found:
+- ADD (android.widget.Button)
+- jonathan hermawanThis is a test
+ (android.widget.TextView)
+- DO NOTHING (android.widget.Button)
+Text elements found:
+- Text/LogTextBox
+- jonathan hermawanThis is a test
+
+
+--- Main Menu ---
+Text Views found:
+- API Demos (android.widget.TextView)
+- Access'ibility (android.widget.TextView)
+- Accessibility (android.widget.TextView)
+- Animation (android.widget.TextView)
+- App (android.widget.TextView)
+- Content (android.widget.TextView)
+- Graphics (android.widget.TextView)
+- Media (android.widget.TextView)
+- NFC (android.widget.TextView)
+- OS (android.widget.TextView)
+- Preference (android.widget.TextView)
+- Text (android.widget.TextView)
+- Views (android.widget.TextView)
+List Views found:
+- null (android.widget.ListView)
+
+  --- Access'ibility (android.widget.TextView) ---
+  Text Views found:
+  - API Demos (android.widget.TextView)
+  - Accessibility Node Provider (android.widget.TextView)
+  - Accessibility Node Querying (android.widget.TextView)
+  - Accessibility Service (android.widget.TextView)
+  - Custom View (android.widget.TextView)
+  List Views found:
+  - null (android.widget.ListView)
+
+    --- Accessibility Node Provider (android.widget.TextView) ---
+    Text Views found:
+    - Accessibility/Accessibility Node Provider (android.widget.TextView)
+    - Enable TalkBack and Explore-by-touch from accessibility settings. Then touch the colored squares. (android.widget.TextView)
+
+    --- Accessibility Node Querying (android.widget.TextView) ---
+    Text Views found:
+    - Accessibility/Accessibility Node Querying (android.widget.TextView)
+    - 1. Enable QueryBack (Settings -> Accessibility -> QueryBack). 
+
+2. Enable Explore-by-Touch (Settings -> Accessibility -> Explore by Touch). 
+
+3. Touch explore the list. (android.widget.TextView)
+    - Take out Trash (android.widget.TextView)
+    - Do Laundry (android.widget.TextView)
+    - Conquer World (android.widget.TextView)
+    - Nap (android.widget.TextView)
+    - Do Taxes (android.widget.TextView)
+    - Abolish IRS (android.widget.TextView)
+    - Tea with Aunt Sharon (android.widget.TextView)
+    Checkboxes found:
+    - null (android.widget.CheckBox) [Checked]
+    - null (android.widget.CheckBox) [Checked]
+    - null (android.widget.CheckBox)
+    - null (android.widget.CheckBox) [Checked]
+    - null (android.widget.CheckBox)
+    - null (android.widget.CheckBox)
+    - null (android.widget.CheckBox)
+    List Views found:
+    - null (android.widget.ListView)
